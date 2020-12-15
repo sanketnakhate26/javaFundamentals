@@ -1,4 +1,4 @@
-package com.company;
+package com.programs;
 
 // Program to perform arithmetic operations
 public class Arithmetic {

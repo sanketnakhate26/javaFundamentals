@@ -1,4 +1,4 @@
-package com.company;
+package com.programs;
 
 public class HelloWorld {
 
